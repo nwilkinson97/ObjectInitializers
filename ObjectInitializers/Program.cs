@@ -6,6 +6,7 @@
         //  -- Allows us the ability to avoid creating multiple constructors which can become difficult to manage.
         static void Main(string[] args)
         {
+
         }
     }
 }
